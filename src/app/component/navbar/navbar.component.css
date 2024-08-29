@@ -1,0 +1,10 @@
+nav{
+    transition:  all .5s;
+}
+.active {
+    background-color:var( --sec-clr)  ;
+    padding: 11px 15px ;
+    border-radius: 17px ;
+    width: fit-content;
+    margin-left: -14px; 
+}
